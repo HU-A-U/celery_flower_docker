@@ -1,2 +1,2 @@
-celery==4.3.0rc1
+celery==5.2.2
 flower==0.9.3
