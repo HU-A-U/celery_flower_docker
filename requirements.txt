@@ -1,2 +1,2 @@
 celery==4.3.0rc1
-flower==0.9.3
+flower==1.2.0
